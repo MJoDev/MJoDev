@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Pythofy**
 
-- 🌱 I’m currently learning **Tensorflo**
+- 🌱 I’m currently learning **Tensorflow**
 
 - 🤝 I’m looking for help with **Pythofy**
 
