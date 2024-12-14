@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **stoppedmjdev@gmail.com**
 
-- 📄 Know about my experiences: [https://docs.google.com/document/d/1CJf3ah4Pc_G7_IS_6DxoebdjcKwmV2deYnBZyCWFQ4g/] (https://docs.google.com/document/d/1CJf3ah4Pc_G7_IS_6DxoebdjcKwmV2deYnBZyCWFQ4g/)
+- 📄 Know about my experiences: https://docs.google.com/document/d/1CJf3ah4Pc_G7_IS_6DxoebdjcKwmV2deYnBZyCWFQ4g/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
