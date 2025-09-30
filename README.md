@@ -5,17 +5,15 @@
 
 - 🔭 I’m currently working on **The Vault Software and Lagro**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Flutter**
 
-- 🤝 I’m looking for help with **Pythofy**
+- 🤝 I’m looking for help with **Book Reader**
 
 - 👨‍💻 All of my projects are available at [https://stoppedmjdev.netlify.app/](https://stoppedmjdev.netlify.app/)
 
 - 💬 Ask me about **React, Python, Angular, TypeScript**
 
 - 📫 How to reach me **stoppedmjdev@gmail.com**
-
-- 📄 Know about my experiences: https://docs.google.com/document/d/1CJf3ah4Pc_G7_IS_6DxoebdjcKwmV2deYnBZyCWFQ4g/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
