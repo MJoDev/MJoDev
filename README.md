@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on **The Vault Software and Lagro**
 
-- 🌱 I’m currently learning **Flutter**
-
-- 🤝 I’m looking for help with **Book Reader**
-
 - 👨‍💻 All of my projects are available at [https://stoppedmjdev.netlify.app/](https://stoppedmjdev.netlify.app/)
 
 - 💬 Ask me about **React, Python, Angular, TypeScript**
