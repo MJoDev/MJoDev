@@ -5,9 +5,9 @@
 
 ## 🚀 Summary & Core Expertise
 
-I am a **Systems Engineer and Developer** with a proven track record in the design, development, and implementation of complete software architectures[cite: 7].
+I am a **Systems Engineer and Developer** with a proven track record in the design, development, and implementation of complete software architectures.
 
-My focus is on **performance optimization** and applying **design patterns** to build scalable and efficient solutions[cite: 8]. [cite_start]I am actively seeking roles that allow me to apply my expertise in **AI integrations, backend architecture for data processing, and technical leadership**.
+My focus is on **performance optimization** and applying **design patterns** to build scalable and efficient solutions. I am actively seeking roles that allow me to apply my expertise in **AI integrations, backend architecture for data processing, and technical leadership**.
 
 ## 🔭 Currently Working On
 
