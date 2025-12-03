@@ -1,36 +1,24 @@
 <h1 align="center">Hi 👋, I'm Moisés David Jiménez Ortiz</h1>
-<h3 align="center">Software Developer | System Engineer | AI Integrations Specialist from Venezuela 🇻🇪</h3>
+<h3 align="center">Software Developer | System Engineer from Venezuela 🇻🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjodev&label=Profile%20views&color=0e75b6&style=flat" alt="mjodev" /> </p>
 
 ## 🚀 Summary & Core Expertise
 
-[cite_start]I am a **Systems Engineer and Developer** with a proven track record in the design, development, and implementation of complete software architectures[cite: 7].
+I am a **Systems Engineer and Developer** with a proven track record in the design, development, and implementation of complete software architectures[cite: 7].
 
-[cite_start]My focus is on **performance optimization** and applying **design patterns** to build scalable and efficient solutions[cite: 8]. [cite_start]I am actively seeking roles that allow me to apply my expertise in **AI integrations, backend architecture for data processing, and technical leadership**[cite: 9].
-
-* [cite_start]**Key Technologies:** Expert in Python (Django, Flask) and TypeScript/JavaScript (Node.js, Express Js, React, Angular) stack[cite: 11]. [cite_start]Experienced with SQL (PostgreSQL, MySQL, SQLite) and NoSQL (MongoDB) databases[cite: 11].
-* [cite_start]**AI/Integration & Data Processing:** Expertise in architecting backend servers for AI data analysis/processing and direct experience with AI Integrations and Chatbots[cite: 13, 14].
-* [cite_start]**Systems Engineering & Leadership:** Strong background as a **Lead Developer** and Full Stack Developer, focusing on Back-end/Front-end integrations, API development, and project management using SCRUM/KANBAN methodologies[cite: 12].
-* [cite_start]**DevOps/Cloud:** Practical knowledge of Docker, Git, Kubernetes, AWS, and Google Cloud Platform (GCP)[cite: 15].
-
-## ✨ Featured Achievement (Lead Developer at Lagro)
-
-* [cite_start]**Performance Optimization:** Led the development of the SaaS platform, **improving system performance by 93.1%** through database optimization, query refactoring, caching with Redis and React Query, and payload handling improvements[cite: 28].
-* [cite_start]**AI/Automation:** Integrated AI solutions and chatbots to automate key processes[cite: 29].
-* [cite_start]**Team & Stack:** Managed backend/frontend integrations and coordinated a development team using agile methodologies (Scrum/Kanban)[cite: 30]. [cite_start]Built using Node.js, React, PostgreSQL, MongoDB, AWS, Docker[cite: 31].
+My focus is on **performance optimization** and applying **design patterns** to build scalable and efficient solutions[cite: 8]. [cite_start]I am actively seeking roles that allow me to apply my expertise in **AI integrations, backend architecture for data processing, and technical leadership**.
 
 ## 🔭 Currently Working On
 
-* [cite_start]Lead Developer at **Lagro** [cite: 24, 25] (May 2025 - Present).
-* Also working on **The Vault Software**.
+* Lead Developer at **Lagro** (May 2025 - Present).
+* Also working on **The Vault Software** as my side personal project.
 
 ## 🤝 Connect with Me
 
-* [cite_start]📫 How to reach me **stoppedmjdev@gmail.com** [cite: 4]
-* 💬 Ask me about **React, Python, Angular, TypeScript, Backend Architecture, or AI Integrations**
-* [cite_start]🔗 **LinkedIn:** [https://www.linkedin.com/in/stoppedmjdev/](https://www.linkedin.com/in/stoppedmjdev/) [cite: 5]
-* [cite_start]🔗 **Github:** [https://github.com/MJoDev](https://github.com/MJoDev) [cite: 4]
+* How to reach me **stoppedmjdev@gmail.com** 
+* Ask me about **React, Python, Angular, TypeScript, Backend Architecture, or AI Integrations**
+* **LinkedIn:** [https://www.linkedin.com/in/stoppedmjdev/](https://www.linkedin.com/in/stoppedmjdev/) 
 
 <p align="left">
 <a href="https://linkedin.com/in/stoppedmjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stoppedmjdev" height="30" width="40" /></a>
